@@ -12,7 +12,7 @@ This dynamic dashboard encapsulates the results of extensive analyses conducted 
 
 ## Live Dashboard
 
-<iframe title="HRAnalysis" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiM2VjN2M2Y2UtZWRjYi00NzA4LTg1Y2UtZGY3MGNjN2JkMTAzIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9" frameborder="0" allowFullScreen="true"></iframe>
+[View HRAnalysis Dashboard](https://app.powerbi.com/view?r=eyJrIjoiM2VjN2M2Y2UtZWRjYi00NzA4LTg1Y2UtZGY3MGNjN2JkMTAzIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9)
 
 ## Objectives
 
